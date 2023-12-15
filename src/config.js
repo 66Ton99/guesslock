@@ -35,10 +35,10 @@ const config = {
         }
       }
     },
-    MESSAGE: 'I wasted my time on BreakLock, it\'s pointless, don\'t try it.',
-    TAGS: ['breaklock']
+    MESSAGE: 'I use GuessLock and it help me to remember my pattrn.',
+    TAGS: ['guesslock']
   },
-  URL: 'https://maxwellito.github.io/breaklock/',
+  URL: 'https://66ton99.github.io/guesslock/',
   COLORS: {
     BRIGHT:  '#ffffff',
     DARK:    '#000000',
