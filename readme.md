@@ -3,7 +3,7 @@
 ### Bring me to the **[tool](https://66ton99.github.io/guesslock/)**!
 
 Silly HTML5 tool, mobile first.
-BreakLock is a hybrid of Mastermind and the Android pattern lock.
+GuessLock is a hybrid of Mastermind and the Android pattern lock.
 
 ## Contribute
 
